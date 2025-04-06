@@ -1,0 +1,15 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+/venv/
+
+# IDE settings
+/.idea/
+
+# Local environment variables
+/app/.env
+
+# App images
+/app/images/
